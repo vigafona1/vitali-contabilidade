@@ -5,4 +5,4 @@ export const WHATSAPP_LINK = `https://wa.me/${WHATSAPP_NUMBER}?text=Olá!%20Vim%
 export const INSTAGRAM_LINK = "https://www.instagram.com/vitali.contabilidade";
 export const INSTAGRAM_HANDLE = "@vitali.contabilidade";
 
-export const EMAIL = "contato@vitali.contabilidade.com.br";
+export const EMAIL = "vitorgabrielcontador@gmail.com";
